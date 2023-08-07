@@ -1,0 +1,4 @@
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: #d75988 !important;
+}
